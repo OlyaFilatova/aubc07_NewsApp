@@ -23,6 +23,6 @@ Clicking on a story opens the story in the user’s browser.
 
 ![browser](docs/browser.png)
 
-App queries the content.guardianapis.com api to fetch news stories related to the topic "", using the ‘test’ api key.
+App queries the content.guardianapis.com api to fetch news stories related to the topic "lifeandstyle/gardens", using the ‘test’ api key.
 
 Networking operations are done using Loader.
