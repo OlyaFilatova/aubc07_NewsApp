@@ -6,7 +6,7 @@ Android Basics: Networking
 
 [Lesson 6: News App](https://review.udacity.com/#!/rubrics/165/view)
 
-This app fetches data from (theguardian)[https://www.theguardian.com/international].
+This app fetches data from [theguardian](https://www.theguardian.com/international).
 
 App contains a main screen which displays multiple news stories
 
@@ -17,11 +17,11 @@ Each list item on the main screen displays relevant text and information about t
 - author name
 - date published
 
-!(articles)[docs/articles.png]
+![articles](docs/articles.png)
 
 Clicking on a story opens the story in the user’s browser.
 
-!(browser)[docs/browser.png]
+![browser](docs/browser.png)
 
 App queries the content.guardianapis.com api to fetch news stories related to the topic "", using the ‘test’ api key.
 
