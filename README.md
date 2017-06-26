@@ -1,6 +1,6 @@
 # News App
 
-Sixth task from Udacity's [Android basics course](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
+Seventh task from Udacity's [Android basics course](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
 
 Android Basics: Networking
 
